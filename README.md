@@ -12,5 +12,5 @@ Then you must install required libraries using pip<br>
 <br>
   <code>pip install -r requirements.txt</code><br>
 <br>
-And finally you can run app
-  <code>python linker.py</code>
+And finally you can run app<br>
+  <code>python linker.py</code><br>
