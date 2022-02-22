@@ -1,16 +1,10 @@
-Package            Version
------------------- ---------
-certifi            2021.10.8
-charset-normalizer 2.0.10
-clipboard          0.0.4
-idna               3.3
-pip                21.1.2
-pyperclip          1.8.2
-PyQt5              5.15.6
-PyQt5-Qt5          5.15.2
-PyQt5-sip          12.9.0
-PyQt5-stubs        5.15.2.0
-requests           2.27.1
-setuptools         57.0.0
-urllib3            1.26.8
-wheel              0.36.2
+certifi==2021.10.8
+charset-normalizer==2.0.12
+clipboard==0.0.4
+idna==3.3
+pyperclip==1.8.2
+PyQt5==5.15.6
+PyQt5-Qt5==5.15.2
+PyQt5-sip==12.9.1
+requests==2.27.1
+urllib3==1.26.8
