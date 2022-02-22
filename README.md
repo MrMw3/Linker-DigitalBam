@@ -15,7 +15,9 @@ Then you must install required libraries using pip<br>
   سپس باید کتابخانه های لازم برای اجرای برنامه را نصب کنید<br>
   <code>pip install -r requirements.txt</code><br>
 <br>
+And finally you can run app
+<br>
 و در ٰآخر می توانید برنامه را با پایتون اجرا کنید
 <br>
-And finally you can run app<br>
+
   <code>python linker.py</code><br>
