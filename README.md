@@ -1,4 +1,4 @@
-# Linker-DigitalBam
+# Linker-DigitalBam [Deprecated]
 This App Converts normal links to Half-Price link using Digitalbam.ir website.<br>
 Note that this app only works on iran internet<br>
 این برنامه لینک های عادی(تمام بها) را به لینک های نیم بها تبدیل می کند<br>
